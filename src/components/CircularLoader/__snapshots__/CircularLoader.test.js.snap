@@ -1,0 +1,91 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CircularLoader /> renders correctly 1`] = `
+.c0 {
+  display: block;
+  margin: 30px auto 12px;
+  position: relative;
+  width: 170px;
+}
+
+.c1 {
+  border-radius: 10px;
+  stroke-linecap: round;
+  -webkit-transition: stroke-dashoffset 0.2s linear,stroke 0.2s linear;
+  transition: stroke-dashoffset 0.2s linear,stroke 0.2s linear;
+  -webkit-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  transform: rotate(-90deg);
+  -webkit-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
+  transform-origin: 50% 50%;
+  -webkit-animation: iwIftm 2s linear infinite;
+  animation: iwIftm 2s linear infinite;
+}
+
+.c2 {
+  color: var(--colors-woodSmoke);
+  font-size: 3.875em;
+  left: 50%;
+  line-height: 1;
+  margin: -2px 0 0 2px;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+  white-space: nowrap;
+}
+
+.c2 span {
+  color: var(--colors-silverSand);
+  display: inline-block;
+  font-size: 22px;
+  line-height: 1;
+  position: relative;
+  top: 9px;
+  vertical-align: top;
+}
+
+<div>
+  <div
+    class="c0"
+  >
+    <svg
+      data-testid="circular-loader"
+      height="170"
+      width="170"
+    >
+      <circle
+        cx="85"
+        cy="85"
+        fill="transparent"
+        r="80"
+        stroke="var(--colors-porcelain)"
+        stroke-dasharray="502.6548245743669 502.6548245743669"
+        stroke-width="10"
+      />
+      <circle
+        class="c1"
+        cx="85"
+        cy="85"
+        fill="transparent"
+        r="80"
+        stroke="var(--colors-dodgerBlue)"
+        stroke-dasharray="502.6548245743669 502.6548245743669"
+        stroke-dashoffset="502.6548245743669"
+        stroke-width="10"
+      />
+    </svg>
+    <span
+      class="c2"
+      data-testid="progress-label"
+    >
+      0
+      <span>
+        %
+      </span>
+    </span>
+  </div>
+</div>
+`;
