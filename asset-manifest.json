@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/circular-uploader/static/css/main.771da739.chunk.css",
+    "main.js": "/circular-uploader/static/js/main.782c5aaa.chunk.js",
+    "main.js.map": "/circular-uploader/static/js/main.782c5aaa.chunk.js.map",
+    "runtime-main.js": "/circular-uploader/static/js/runtime-main.539761e3.js",
+    "runtime-main.js.map": "/circular-uploader/static/js/runtime-main.539761e3.js.map",
+    "static/js/2.efb1643a.chunk.js": "/circular-uploader/static/js/2.efb1643a.chunk.js",
+    "static/js/2.efb1643a.chunk.js.map": "/circular-uploader/static/js/2.efb1643a.chunk.js.map",
+    "static/js/3.9ae9f700.chunk.js": "/circular-uploader/static/js/3.9ae9f700.chunk.js",
+    "static/js/3.9ae9f700.chunk.js.map": "/circular-uploader/static/js/3.9ae9f700.chunk.js.map",
+    "index.html": "/circular-uploader/index.html",
+    "static/css/main.771da739.chunk.css.map": "/circular-uploader/static/css/main.771da739.chunk.css.map",
+    "static/js/2.efb1643a.chunk.js.LICENSE.txt": "/circular-uploader/static/js/2.efb1643a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.539761e3.js",
+    "static/js/2.efb1643a.chunk.js",
+    "static/css/main.771da739.chunk.css",
+    "static/js/main.782c5aaa.chunk.js"
+  ]
+}
